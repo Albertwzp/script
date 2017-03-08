@@ -1,0 +1,30 @@
+spurs	San Antonio	1976	5
+celtics	Boston	1946	17
+lakers	Los Angeles	1948	16
+bulls	Chicago	1966	6
+warriors	Golden State	1946	4
+pistons	Ditroit	1948	3
+76ers	Philadelphia	1949	3
+heat	Miami	1988	3
+rockets	Houston	1957	2
+knicks	New York	1946	2
+wizards	Washington	1961	2
+nets	Brooklyn	1976	0
+thunders	Oklahoma City	1967	1
+raptors	Toronto	1995	0
+cavaliers	Cleveland	1970	0
+pacers	Indiana	1976	0
+bucks	Milwaukee	1968	1
+magic	Orlando	1989	0
+hawks	Atlanta	1955	1
+hornets	Charlotte	2004	0
+pelican	New Orleans	1988	0
+mavericks	Dallas	1980	1
+grizzlies	Memphis	1995	0
+nuggets	Denver	1974	0
+timberwolves	Minnesota	1970	0
+jazz	Utah	1974	0
+blazers	Portland	1970	1
+clippers	Los Angeles	1970	0
+kings	Sacramento	1948	1
+suns	Phoenix	1968	0
