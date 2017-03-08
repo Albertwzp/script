@@ -1,0 +1,174 @@
+TS 1445852520.002189176 2015-10-26 17:42:00  17:42:00 up  8:32,  1 user,  load average: 0.00, 0.08, 0.07
+*************************** 1. row ***************************
+      Id: 1
+    User: system user
+    Host: 
+      db: NULL
+ Command: Sleep
+    Time: -82
+   State: closing tables
+    Info: NULL
+Progress: 0.000
+*************************** 2. row ***************************
+      Id: 2
+    User: system user
+    Host: 
+      db: NULL
+ Command: Sleep
+    Time: 29194
+   State: wsrep aborter idle
+    Info: NULL
+Progress: 0.000
+*************************** 3. row ***************************
+      Id: 30049
+    User: athletic
+    Host: 192.168.1.69:12677
+      db: plt
+ Command: Sleep
+    Time: 5
+   State: 
+    Info: NULL
+Progress: 0.000
+*************************** 4. row ***************************
+      Id: 30084
+    User: root
+    Host: localhost
+      db: NULL
+ Command: Query
+    Time: 0
+   State: init
+    Info: SHOW FULL PROCESSLIST
+Progress: 0.000
+*************************** 5. row ***************************
+      Id: 30085
+    User: unauthenticated user
+    Host: localhost
+      db: NULL
+ Command: Connect
+    Time: NULL
+   State: Reading from net
+    Info: NULL
+Progress: 0.000
+TS 1445852580.002491151 2015-10-26 17:43:00  17:43:00 up  8:33,  1 user,  load average: 0.00, 0.06, 0.07
+*************************** 1. row ***************************
+      Id: 1
+    User: system user
+    Host: 
+      db: NULL
+ Command: Sleep
+    Time: -22
+   State: closing tables
+    Info: NULL
+Progress: 0.000
+*************************** 2. row ***************************
+      Id: 2
+    User: system user
+    Host: 
+      db: NULL
+ Command: Sleep
+    Time: 29254
+   State: wsrep aborter idle
+    Info: NULL
+Progress: 0.000
+*************************** 3. row ***************************
+      Id: 30146
+    User: root
+    Host: localhost
+      db: NULL
+ Command: Query
+    Time: 0
+   State: removing tmp table
+    Info: SHOW GLOBAL STATUS
+Progress: 0.000
+*************************** 4. row ***************************
+      Id: 30147
+    User: root
+    Host: localhost
+      db: NULL
+ Command: Query
+    Time: 0
+   State: init
+    Info: SHOW FULL PROCESSLIST
+Progress: 0.000
+*************************** 5. row ***************************
+      Id: 30148
+    User: root
+    Host: localhost
+      db: NULL
+ Command: Sleep
+    Time: 0
+   State: 
+    Info: NULL
+Progress: 0.000
+TS 1445852640.002299390 2015-10-26 17:44:00  17:44:00 up  8:34,  1 user,  load average: 0.00, 0.05, 0.06
+*************************** 1. row ***************************
+      Id: 1
+    User: system user
+    Host: 
+      db: NULL
+ Command: Sleep
+    Time: 38
+   State: closing tables
+    Info: NULL
+Progress: 0.000
+*************************** 2. row ***************************
+      Id: 2
+    User: system user
+    Host: 
+      db: NULL
+ Command: Sleep
+    Time: 29314
+   State: wsrep aborter idle
+    Info: NULL
+Progress: 0.000
+*************************** 3. row ***************************
+      Id: 30211
+    User: root
+    Host: localhost
+      db: NULL
+ Command: Query
+    Time: 0
+   State: init
+    Info: SHOW FULL PROCESSLIST
+Progress: 0.000
+TS 1445852712.304082436 2015-10-26 17:45:12  17:45:12 up  8:35,  1 user,  load average: 0.00, 0.04, 0.05
+*************************** 1. row ***************************
+      Id: 1
+    User: system user
+    Host: 
+      db: NULL
+ Command: Sleep
+    Time: 110
+   State: closing tables
+    Info: NULL
+Progress: 0.000
+*************************** 2. row ***************************
+      Id: 2
+    User: system user
+    Host: 
+      db: NULL
+ Command: Sleep
+    Time: 29386
+   State: wsrep aborter idle
+    Info: NULL
+Progress: 0.000
+*************************** 3. row ***************************
+      Id: 30284
+    User: root
+    Host: localhost
+      db: NULL
+ Command: Query
+    Time: 0
+   State: Sending data
+    Info: SHOW GLOBAL STATUS
+Progress: 0.000
+*************************** 4. row ***************************
+      Id: 30286
+    User: root
+    Host: localhost
+      db: NULL
+ Command: Query
+    Time: 0
+   State: init
+    Info: SHOW FULL PROCESSLIST
+Progress: 0.000
